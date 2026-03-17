@@ -1,0 +1,8 @@
+#!name=自定义优化模块
+#!desc=禁用WiFi助理并设置特定域名直连
+
+[General]
+wifi-assist = false
+
+[Rule]
+DOMAIN-SUFFIX,tagss13.pro,DIRECT
