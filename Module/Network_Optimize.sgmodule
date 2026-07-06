@@ -6,3 +6,4 @@ wifi-assist = false
 
 [Rule]
 DOMAIN-SUFFIX,tagss13.pro,DIRECT
+IP-CIDR,154.21.194.51/32,DIRECT
